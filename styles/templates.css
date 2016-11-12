@@ -1,0 +1,7 @@
+#nav-bar-template {
+	display: block;
+	float: left;
+	text-align: center;
+	text-decoration: none;
+	background-color: gray;
+}
